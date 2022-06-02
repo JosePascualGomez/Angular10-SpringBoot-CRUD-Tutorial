@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<springboot2-jpa-crud-example>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "net.guides.springboot2.springboot2jpacrudexample.Application",
+            "projectName": "springboot2-jpa-crud-example",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
